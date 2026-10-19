@@ -1,0 +1,25 @@
+<resources>
+    <color name="primary">#2D3E96</color>
+    <color name="hero_background">#000000</color>
+    <color name="canvas">#F7F8FC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ink">#25272D</color>
+    <color name="muted">#747782</color>
+    <color name="secondary_text">#777B84</color>
+    <color name="hero_subtitle">#E0E5FF</color>
+    <color name="error">#A44137</color>
+    <color name="avatar_background">#EEF1F9</color>
+    <color name="icon_button_background">#F1F3F9</color>
+    <color name="input_border">#DDE1EC</color>
+    <color name="person_icon">#8794BC</color>
+    <color name="tile_surface">#F6F7FB</color>
+    <color name="tile_selected">#EFF2FD</color>
+    <color name="tile_selected_border">#D9DFF6</color>
+    <color name="border">#E5E8F1</color>
+    <color name="win">#7BB745</color>
+    <color name="draw">#B7BCC7</color>
+    <color name="loss">#DA7869</color>
+    <color name="scrim_start">#12000000</color>
+    <color name="scrim_center">#10000000</color>
+    <color name="scrim_end">#40000000</color>
+</resources>

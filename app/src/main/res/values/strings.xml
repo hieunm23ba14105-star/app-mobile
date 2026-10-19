@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thống kê Chess.com</string>
+    <string name="chess_knight_glyph">♞</string>
+    <string name="player_stats_subtitle">Thống kê người chơi Chess.com</string>
+    <string name="player_avatar">Ảnh đại diện người chơi</string>
+    <string name="change_player">Đổi tài khoản</string>
+    <string name="lookup">Tra cứu hồ sơ</string>
+    <string name="username_hint">Tên tài khoản</string>
+    <string name="view">Xem</string>
+    <string name="brand_title">Chess.com · Thống kê</string>
+</resources>
